@@ -1,0 +1,5 @@
+# TDBRAIN
+.DS_Store
+TDBRAIN_Dataset_V3_1/
+.env
+.vscode/
